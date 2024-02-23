@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "S4B-XH-SM4-TB_LF__SN_")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_S4B-XH-SM4-TB_LF__SN_/S4B-XH-SM4-TB_LF__SN_")(options "")(descr ""))
+)

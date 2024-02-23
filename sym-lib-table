@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "S4B-XH-SM4-TB_LF__SN_")(type "Legacy")(uri "${KIPRJMOD}/lib/LIB_S4B-XH-SM4-TB_LF__SN_/S4B-XH-SM4-TB_LF__SN_/S4B-XH-SM4-TB_LF__SN_.lib")(options "")(descr ""))
+  (lib (name "BL1532")(type "KiCad")(uri "${KIPRJMOD}/lib/BL1532.kicad_sym")(options "")(descr ""))
+)

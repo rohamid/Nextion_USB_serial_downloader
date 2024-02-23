@@ -1,0 +1,45 @@
+# Temporary files
+*-backups
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (Exported from Eeschema)
+
+*.xml
+# Temporary files
+*-backups
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups
+*.kicad_prl
+*.sch-bak
+*~
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+
+# Netlist files (Exported from Eeschema)
+
+*.xml
+
+# User defined folder for storing fabrication files
+/B.O.M
+/gerber
+
